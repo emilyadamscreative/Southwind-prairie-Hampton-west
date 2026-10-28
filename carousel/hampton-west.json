@@ -1,0 +1,121 @@
+{
+  "plan": "The Hampton West",
+  "community": "Southwind Prairie",
+  "phone": "(262) 249-8500",
+  "site": "southwindprairie.com",
+  "staging_disclaimer": "Photo is a real photo of our apartment homes and community that has been virtually staged with decor.",
+  "facts_source": "Hampton West facts from the 2026-10-22 reels-hampton-west CAPTIONS.md (southwindprairie.com plan copy plus the shoot), checked against these photos.",
+
+  "slides": [
+    {
+      "type": "cover",
+      "photo": "IMG_0616",
+      "focus": [0.5, 0.42],
+      "kicker": "Southwind Prairie West",
+      "title": "Why the Hampton West lives larger than 1,322 square feet.",
+      "sub": "Upper level · 2 bedrooms · 2 full baths",
+      "swipe": "Swipe for the walkthrough",
+      "stage": "optional",
+      "alt": "Kitchen in the Hampton West with white cabinets, stainless appliances, two pendant lights over a large island, and a vaulted ceiling."
+    },
+    {
+      "type": "benefit",
+      "photo": "IMG_0644",
+      "focus": [0.5, 0.4],
+      "label": "Private entry",
+      "title": "A private way in.",
+      "body": "Your own front door, your own stair, and an attached two-car garage. The walk from the car to the fireplace never goes outside.",
+      "alt": "Slate blue front door with a divided-light window, white trim, gray siding, and stone accents."
+    },
+    {
+      "type": "benefit",
+      "photo": "IMG_0611",
+      "focus": [0.5, 0.45],
+      "label": "Open concept",
+      "title": "One open room, anchored by a fireplace.",
+      "body": "The living room, dining space, and kitchen share one vaulted space, so the square footage works together instead of being divided up.",
+      "stage": "recommended",
+      "alt": "Open living area with plank flooring and a gas fireplace with a white mantel, opening to the kitchen and island under a vaulted ceiling."
+    },
+    {
+      "type": "benefit",
+      "photo": "IMG_0619",
+      "focus": [0.45, 0.4],
+      "label": "Kitchen",
+      "title": "A kitchen that faces the room.",
+      "body": "Stainless appliances, subway tile, under-cabinet lighting, and a full island that looks out to the living room, so the cook stays part of the conversation.",
+      "alt": "Kitchen work area with subway tile backsplash, stainless dishwasher and refrigerator, under-cabinet lighting, and the island in the foreground."
+    },
+    {
+      "type": "benefit",
+      "photo": "IMG_0621",
+      "focus": [0.55, 0.38],
+      "label": "Vaulted ceilings",
+      "title": "Height a floor plan never shows.",
+      "body": "Vaulted ceilings over the main living space, with pendant lights and a ceiling fan, make every square foot feel taller and wider.",
+      "alt": "Vaulted ceiling with a ceiling fan and two pendant lights above the kitchen island, looking toward the open dining space."
+    },
+    {
+      "type": "benefit",
+      "photo": "IMG_0637",
+      "focus": [0.5, 0.5],
+      "label": "Two bedrooms",
+      "title": "Two bedrooms, both with room to breathe.",
+      "body": "Ceiling fans in both bedrooms and a wide double window here. A guest room, an office, or both.",
+      "stage": "recommended",
+      "alt": "Bedroom with a ceiling fan, gray walls, plank flooring, and a wide double window."
+    },
+    {
+      "type": "split",
+      "photos": ["IMG_0631", "IMG_0632"],
+      "focuses": [[0.42, 0.5], [0.4, 0.5]],
+      "label": "Two full baths",
+      "title": "Two full baths. No waiting.",
+      "body": "One with a tub and shower, one with a glass-door shower.",
+      "alt": "Left, a bathroom with a white tub and shower combination. Right, a bathroom with a glass-door shower and a vanity with a speckled countertop."
+    },
+    {
+      "type": "benefit",
+      "photo": "IMG_0636",
+      "focus": [0.55, 0.45],
+      "label": "Walk-in closet",
+      "title": "A closet you can walk into.",
+      "body": "Shelving and hanging rods on two walls, with room for the whole wardrobe, not just this season's.",
+      "alt": "Walk-in closet with white wire shelving and hanging rods on two walls."
+    },
+    {
+      "type": "benefit",
+      "photo": "IMG_0625",
+      "focus": [0.5, 0.45],
+      "label": "Laundry room",
+      "title": "A laundry room, not a laundry closet.",
+      "body": "A full-size washer and dryer, upper cabinets, a folding counter, and a door that closes on all of it.",
+      "alt": "Laundry room with a full-size white washer and dryer, dark wood upper cabinets, a wire shelf, and a white folding counter."
+    },
+    {
+      "type": "close",
+      "photo": "IMG_0611",
+      "focus": [0.5, 0.42],
+      "title": "The Hampton West at Southwind Prairie.",
+      "specs": [
+        "1,322 sq ft, upper level",
+        "2 bedrooms, 2 full baths",
+        "Attached two-car garage",
+        "Private stair and entry",
+        "Gas fireplace",
+        "Private deck",
+        "Walk-in closet",
+        "Full-size washer and dryer"
+      ],
+      "cta": "Call (262) 249-8500 to make it yours.",
+      "alt": "Summary card: The Hampton West at Southwind Prairie, 1,322 square feet on the upper level, 2 bedrooms, 2 full baths, attached two-car garage, private stair and entry, gas fireplace, private deck, walk-in closet, full-size washer and dryer. Call (262) 249-8500."
+    }
+  ],
+
+  "caption": [
+    "Square footage is a number. A floor plan is how it feels.",
+    "The Hampton West at Southwind Prairie is 1,322 square feet on the upper level, and it lives larger than that. Swipe through: a private entry with an attached two-car garage, one open vaulted space for the kitchen, dining, and living room, a gas fireplace, an island that faces the room, two bedrooms with ceiling fans, two full baths, a walk-in closet, and a true laundry room with a full-size washer and dryer. Call (262) 249-8500 to make it yours.",
+    "Which slide sold you: the island, the fireplace, or the laundry room? Tell us in the comments."
+  ],
+  "first_comment": "#LifeAtSouthwind #LakeGenevaWI #LuxuryApartments #ApartmentGoals #DownsizeUpgrade #LakeGenevaLife #WisconsinLiving"
+}
